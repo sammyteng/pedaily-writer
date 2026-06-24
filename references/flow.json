@@ -1,0 +1,41 @@
+{
+  "skill": "pedaily-writer",
+  "title": "投资界风格创投报道写作流程",
+  "nodes": [
+    {
+      "title": "给选题参数",
+      "subtitle": "融资事件/类型/视角/字数",
+      "type": "io"
+    },
+    {
+      "title": "搭分析框架",
+      "subtitle": "赛道评分+竞争力+退出路径",
+      "type": "code"
+    },
+    {
+      "title": "采集融资数据",
+      "subtitle": "IT桔子/企查查/交易所信源",
+      "type": "reuse"
+    },
+    {
+      "title": "选报道骨架",
+      "subtitle": "融资/基金/IPO等5套模板",
+      "type": "reuse"
+    },
+    {
+      "title": "写资本视角稿",
+      "subtitle": "数据框前置+投资逻辑全景",
+      "type": "code"
+    },
+    {
+      "title": "六项自检",
+      "subtitle": "信源可核实+风险评估过关",
+      "type": "gate"
+    },
+    {
+      "title": "交付报道稿",
+      "subtitle": "投资界风格创投深度文",
+      "type": "io"
+    }
+  ]
+}
